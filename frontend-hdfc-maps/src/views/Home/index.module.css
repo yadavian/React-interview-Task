@@ -1,0 +1,17 @@
+.active_tab {
+    background-color: rgb(42 118 180);
+    color: white;
+    border: 2px solid rgb(42 118 180);
+}
+
+.inactive_tab {
+    background-color: white;
+    color: rgb(42 118 180);
+    border: 2px solid rgb(42 118 180);
+}
+
+.tab_style {
+    width: 50%;
+    border-radius: 5px;
+    padding: 10px 0px
+}
